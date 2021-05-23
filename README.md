@@ -5,5 +5,5 @@
 
 ---
 
-Visit: https://shreyaschavhan.github.io/flipkart-clone/
-Reference: [CSS Tutorial In Hindi (With Notes) 🔥](https://www.youtube.com/watch?v=Edsxf_NBFrw)
+* Visit: https://shreyaschavhan.github.io/flipkart-clone/
+* Reference: [CSS Tutorial In Hindi (With Notes) 🔥](https://www.youtube.com/watch?v=Edsxf_NBFrw)
